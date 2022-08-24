@@ -1,0 +1,17 @@
+{
+    "postgresql":{
+        "host":"172.23.68.231",
+        "db":"project3_source",
+        "user":"postgres",
+        "pwd":"admin",
+        "port":5432
+    },
+    
+    "warehouse":{
+        "host":"172.23.68.231",
+        "db":"project3_dwh",
+        "user":"postgres",
+        "pwd":"admin",
+        "port":5432
+    }
+}
